@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-06 22:14+0000\n"
+"PO-Revision-Date: 2020-08-07 01:47+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: DOMAIN\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4\n"
+
+#: profiles.zcml:13
+msgid "A generic cart"
+msgstr ""
+
+#: browser/portlet.py:69
+msgid "Add Cart Portlet"
+msgstr "Lisää pienoisostoskori"
+
+#: browser/portlet.py:70
+msgid "This portlet displays the shopping cart."
+msgstr "Näyttää pienoisostoskorin"
+
+#. Default: "Article limit reached"
+#: cart.py:197
+msgid "article_limit_reached"
+msgstr "Enimmäistuotemäärä saavutettu"
+
+#: browser/summary.pt:120
+msgid "back"
+msgstr "takaisin"
+
+#: profiles.zcml:13
+msgid "bda.plone.cart"
+msgstr ""
+
+#. Default: "Cart"
+#: browser/portlet.pt:10 browser/portlet.py:28 browser/view.pt:18
+msgid "cart"
+msgstr "Ostoskori"
+
+#. Default: "Comment is required"
+#: browser/__init__.py:65
+msgid "cart_comment_required"
+msgstr "Tilaus edellyttää liitetietoja "
+
+#. Default: "Input not an integer"
+#: browser/__init__.py:69
+msgid "cart_integer_required"
+msgstr "Tilausmäärän tulee olla kokonaisluku"
+
+#. Default: "Item has been added to cart"
+#: browser/__init__.py:81
+msgid "cart_item_added"
+msgstr "Tuote poimittu ostoskoriin"
+
+#. Default: "Item has been removed from cart"
+#: browser/__init__.py:89
+msgid "cart_item_removed"
+msgstr "Tuote poistettu ostoskorista"
+
+#. Default: "Item has been updated in cart"
+#: browser/__init__.py:85
+msgid "cart_item_updated"
+msgstr "Tuote päivitetty ostoskorissa"
+
+#. Default: "Unique article limit reached"
+#: browser/__init__.py:58
+msgid "cart_max_unique_articles_reached"
+msgstr ""
+
+#. Default: "One or more items in cart are only partly or no longer available. Please update or remove related items"
+#: browser/__init__.py:73
+msgid "cart_no_longer_available"
+msgstr "Joitain korin tuotteita ei ole saatavana haluttua määrää. Ole hyvä ja vähennä korissa olevia määriä. "
+
+#. Default: "Input not a number"
+#: browser/__init__.py:55
+msgid "cart_not_a_number"
+msgstr "Syötteen tulee olla numero"
+
+#. Default: "Cart"
+#: browser/portlet.pt:10 browser/viewlet.pt:8
+msgid "cart_summary"
+msgstr "Kori"
+
+#. Default: "Total limit reached"
+#: browser/__init__.py:51
+msgid "cart_total_limit_reached"
+msgstr "Ostoskorin kokonaismäärän raja saavutettu"
+
+#. Default: "Checkout"
+#: browser/portlet.pt:21 browser/summary.pt:122 browser/viewlet.pt:21
+msgid "checkout"
+msgstr "Maksa"
+
+#. Default: "Comment"
+#: browser/summary.pt:19 browser/tile.pt:41
+msgid "comment"
+msgstr "lisätietoja"
+
+#. Default: "Discount:"
+#: browser/summary.pt:44 browser/tile.pt:45
+msgid "discount"
+msgstr "Alennukset"
+
+#. Default: "Discount Net:"
+#: browser/summary.pt:80 browser/tile.pt:77
+msgid "discount_net"
+msgstr "Nettoalennus:"
+
+#. Default: "Discount Total:"
+#: browser/summary.pt:91 browser/tile.pt:88
+msgid "discount_total"
+msgstr "Kokonaisalennus:"
+
+#. Default: "Discount VAT.:"
+#: browser/summary.pt:85 browser/tile.pt:82
+msgid "discount_vat"
+msgstr "Alennuksen ALV:"
+
+#. Default: "Cart is empty"
+#: browser/summary.pt:62 browser/tile.pt:58
+msgid "empty_cart"
+msgstr "Ostoskori on tyhjä."
+
+#. Default: "Price"
+#: browser/summary.pt:50 browser/tile.pt:49
+msgid "price"
+msgstr "Hinta"
+
+#. Default: "Remove from cart"
+#: browser/summary.pt:37 browser/tile.pt:34
+msgid "remove_from_cart"
+msgstr "Poista korista"
+
+#. Default: "Net:"
+#: browser/summary.pt:70 browser/tile.pt:67
+msgid "summary_net"
+msgstr "Netto:"
+
+#. Default: "Shipping"
+#: browser/summary.pt:100 browser/tile.pt:96
+msgid "summary_shipping"
+msgstr "Toimituskulut"
+
+#. Default: "Total:"
+#: browser/summary.pt:109 browser/tile.pt:102
+msgid "summary_total"
+msgstr "Yhteensä:"
+
+#. Default: "VAT.:"
+#: browser/summary.pt:75 browser/tile.pt:72
+msgid "summary_vat"
+msgstr "ALV:"
+
+#. Default: "Not enough items available, abort."
+#: cart.py:205
+msgid "trying_to_add_more_items_than_available"
+msgstr "Tuotteita ei ole riittävästi saatavana. Toiminto keskeytetty."
+
+#. Default: "Update cart"
+#: browser/summary.pt:28 browser/tile.pt:25
+msgid "update_cart"
+msgstr "päivitä ostoskori"
